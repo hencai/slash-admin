@@ -33,7 +33,7 @@ export default function NavLogo({ collapsed, onToggle }: Props) {
 						className="ml-2 text-xl font-bold"
 						style={{ color: colorPrimary }}
 					>
-						Slash Admin
+						遥感图像目标检测系统
 					</span>
 				)}
 			</div>
